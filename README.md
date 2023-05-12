@@ -11,7 +11,6 @@
 - 비일관성 (Inoonsistency)
 
 ### 데이터 모델링의 특징
-
 - 추상화(Abstraction), 현실 세계를 일정한 표기에 맞게 간랸하게 표현한다.
 - 단순화(Simplification), 누구나 이해하 쉽도록 약속된 표기법 또는 언어를 이용하여 표현
 - 명확화(Clarity), 명화학게 의미가 한가지로 해석되어야 한다.
@@ -158,4 +157,12 @@
   1. 주식별자가 한 번 특정 엔터티에 지정되면 그 식별자의 값은 변하지 않아야 함
 - 존재성
   1. 주식별자가 지정되면 반드시 데이터 값이 존재해야함
-  
+
+## SQL (Structured Query Language)
+- SQL-> DBMS에게 질의하는 명령어
+- DBMS-> Database + Management System
+- 질의-> 구조화된 데이터를 질의
+
+
+
+
